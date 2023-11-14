@@ -1,0 +1,61 @@
+
+.list-container {
+    
+    position: relative;
+    top: 30vh;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+
+.list-item {
+    height: 10vh;
+    margin: 15px;
+   
+    
+}
+
+
+.btn1{
+    
+  height: 25px;
+  position: relative;
+  bottom:12vh;
+  left:120vh;
+  background-color: red;
+  outline: none;
+  
+  
+ 
+  
+}
+.btn2{
+    height: 25px;
+    position: relative;
+    bottom:12vh;
+    left:140vh;
+    background-color: green;
+    outline: none;
+
+}
+
+.sap{
+    width: 100%;
+    height: 2px;
+    background-color: black;
+    
+
+}
+
+
+.update-list{
+    position: relative;
+    top:150px;
+}
+
+.btn3{
+    background-color: blue;
+    position: relative;
+    top:150px;
+    
+}

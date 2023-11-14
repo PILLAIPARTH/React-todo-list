@@ -1,0 +1,45 @@
+.todo-title {
+    font-size: 20px;
+    position: relative;
+    top: 10vh;
+}
+
+.container {
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+
+.input {
+    position: relative;
+    top: 19vh;
+    width: 40%;
+    height: 25px;
+    border: 1px solid red;
+    outline: none;
+    padding: 5px;
+}
+
+
+.btn {
+    position: relative;
+    top: 19vh;
+    width: 14vh;
+    height: 36px;
+    border: 1px solid rgb(193, 23, 23);
+    cursor: pointer;
+    background-color: rgb(246, 131, 131);
+    outline: none;
+}
+
+
+.list-title {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    position: relative;
+    top: 30vh;
+    left: 50%;
+    transform: translateX(-50%);
+}
